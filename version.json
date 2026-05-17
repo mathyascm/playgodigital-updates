@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "build": 1,
-  "url": "",
-  "changelog": ""
+  "version": "1.0.1",
+  "build": 2,
+  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.1/app-release.apk",
+  "changelog": "- Subt\u00edtulos nativos con ExoPlayer\n- Live TV sin distorsi\u00f3n\n- Actualizaci\u00f3n autom\u00e1tica"
 }
