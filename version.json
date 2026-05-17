@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "build": 4,
-  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.3/app-release.apk",
-  "changelog": "- Fix actualización: cache-busting en versión remota\n- Mejora de compatibilidad con decodificadores Android 10"
+  "version": "1.0.4",
+  "build": 5,
+  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.4/app-release.apk",
+  "changelog": "- Buffer FHD/4K: 60 s max, sin límite de bytes\n- Estimación inicial de ancho de banda 8 Mbps para canales HD\n- Activado modo software decoder fallback extendido"
 }
