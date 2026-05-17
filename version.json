@@ -2,5 +2,6 @@
   "version": "1.0.2",
   "build": 3,
   "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.2/app-release.apk",
-  "changelog": "- Fix reproducci\u00f3n en Android 10\n- Mejora de compatibilidad con decodificadores de video"
+  "changelog": "- Fix reproducción en Android 10
+- Mejora de compatibilidad con decodificadores de video"
 }
