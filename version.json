@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "build": 6,
-  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.5/app-release.apk",
-  "changelog": "- Fix 4K y FHD: cambio a SurfaceView (renderizado nativo)\n  Los decoders H.265 de chipsets Amlogic/Rockchip ahora\n  escriben directo al hardware sin pasar por Flutter Texture\n- Misma mejora que usa IPTV Smarters Pro internamente"
+  "version": "1.0.6",
+  "build": 7,
+  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.6/app-release.apk",
+  "changelog": "- Fix IPTV: configuración HLS/MPEG-TS permisiva\n  Acepta streams con keyframes no-IDR (común en IPTV)\n  Detecta access units en H.264/H.265 sobre MPEG-TS\n- Soluciona canales que reportaban codec no soportado"
 }
