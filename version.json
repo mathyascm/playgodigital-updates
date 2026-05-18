@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "build": 7,
-  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.6/app-release.apk",
-  "changelog": "- Fix IPTV: configuración HLS/MPEG-TS permisiva\n  Acepta streams con keyframes no-IDR (común en IPTV)\n  Detecta access units en H.264/H.265 sobre MPEG-TS\n- Soluciona canales que reportaban codec no soportado"
+  "version": "1.0.7",
+  "build": 8,
+  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.7/app-release.apk",
+  "changelog": "- DIAGNÓSTICO: panel de info técnica en pantalla de error\n  Muestra OS, URL y error crudo de ExoPlayer\n  Botón Copiar para enviar el detalle\n- Build temporal para diagnosticar incompatibilidad 4K en Android 10"
 }
