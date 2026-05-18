@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "build": 8,
-  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.7/app-release.apk",
-  "changelog": "- DIAGNÓSTICO: panel de info técnica en pantalla de error\n  Muestra OS, URL y error crudo de ExoPlayer\n  Botón Copiar para enviar el detalle\n- Build temporal para diagnosticar incompatibilidad 4K en Android 10"
+  "version": "1.0.8",
+  "build": 9,
+  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.8/app-release.apk",
+  "changelog": "- Fix 4K Dolby Vision: fallback automático a HEVC\n  Cuando el decoder DV del chip falla al iniciar (común\n  en TV boxes Android 10), ExoPlayer usa el decoder HEVC\n  sobre el stream base. Misma técnica que IPTV Smarters.\n- Mantiene panel de debug para diagnóstico"
 }
