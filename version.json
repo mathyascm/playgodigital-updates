@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "build": 10,
-  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.9/app-release.apk",
-  "changelog": "- Panel debug ahora muestra versión instalada (APP: vX.Y.Z+B)\n  Permite verificar de un vistazo que la actualización se aplicó\n- Mantiene fix Dolby Vision → HEVC fallback de v1.0.8"
+  "version": "1.0.10",
+  "build": 11,
+  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.10/app-release.apk",
+  "changelog": "- Ruta B: reescritura de Format en el renderer\n  DolbyVisionRenderersFactory cambia el sampleMimeType\n  de video/dolby-vision a video/hevc ANTES de configurar\n  el MediaCodec, no solo en la selección de decoder.\n- Panel debug muestra versión instalada (APP: vX.Y.Z+B)"
 }
