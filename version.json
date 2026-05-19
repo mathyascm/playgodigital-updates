@@ -1,11 +1,11 @@
 {
-  "version": "1.0.15",
-  "build": 16,
-  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.15/app-release.apk",
+  "version": "1.0.16",
+  "build": 17,
+  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.16/app-release.apk",
   "urls": {
-    "arm64-v8a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.15/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.15/app-armeabi-v7a-release.apk",
-    "universal": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.15/app-release.apk"
+    "arm64-v8a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.16/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.16/app-armeabi-v7a-release.apk",
+    "universal": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.16/app-release.apk"
   },
-  "changelog": "- Fix: VLC usa decodificación por software para contenido con codecs incompatibles\\n- Fix: spinner se oculta correctamente al iniciar VLC"
+  "changelog": "- Debug: overlay en pantalla con estado del player en vivo\\n- Fix: versionCode coincide con pubspec.yaml"
 }
