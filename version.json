@@ -1,11 +1,11 @@
 {
-  "version": "1.0.20",
-  "build": 21,
-  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.20/app-release.apk",
+  "version": "1.0.21",
+  "build": 22,
+  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.21/app-release.apk",
   "urls": {
-    "arm64-v8a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.20/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.20/app-armeabi-v7a-release.apk",
-    "universal": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.20/app-release.apk"
+    "arm64-v8a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.21/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.21/app-armeabi-v7a-release.apk",
+    "universal": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.21/app-release.apk"
   },
-  "changelog": "- MPV usa SurfaceView nativo en vez de Flutter Texture"
+  "changelog": "- Optimización de fluidez 4K: cache de red, frame dropping, fast decode"
 }
