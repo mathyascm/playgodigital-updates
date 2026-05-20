@@ -1,11 +1,11 @@
 {
-  "version": "1.0.22",
-  "build": 23,
-  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.22/app-universal-release.apk",
+  "version": "1.0.23",
+  "build": 24,
+  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.23/app-universal-release.apk",
   "urls": {
-    "arm64-v8a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.22/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.22/app-armeabi-v7a-release.apk",
-    "universal": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.22/app-universal-release.apk"
+    "arm64-v8a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.23/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.23/app-armeabi-v7a-release.apk",
+    "universal": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.23/app-universal-release.apk"
   },
-  "changelog": "- MPV: tuning para hw decode MediaCodec (video-latency-hacks, framedrop=vo, interpolation=no)\n- Elimina propiedades vd-lavc-* que no aplican a decode por hardware"
+  "changelog": "- Reproductor NATIVO: las películas ahora se reproducen en una Activity ExoPlayer nativa, sin capa de composición Flutter sobre el video.\n- Soluciona la falta de fluidez en TV boxes de gama baja.\n- Auto Frame Rate y negociación de códec flexible."
 }
