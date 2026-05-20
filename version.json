@@ -1,11 +1,11 @@
 {
-  "version": "1.0.25",
-  "build": 26,
-  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.25/app-universal-release.apk",
+  "version": "1.0.26",
+  "build": 27,
+  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.26/app-universal-release.apk",
   "urls": {
-    "arm64-v8a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.25/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.25/app-armeabi-v7a-release.apk",
-    "universal": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.25/app-universal-release.apk"
+    "arm64-v8a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.26/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.26/app-armeabi-v7a-release.apk",
+    "universal": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.26/app-universal-release.apk"
   },
-  "changelog": "- TV en vivo migrado al reproductor nativo ExoPlayer (rendimiento garantizado en TV boxes de gama baja).\n- Conserva la experiencia completa: categorias, canales, favoritos, recientes, busqueda.\n- Cambio de canal con D-pad y swipe; auto-skip si un canal falla.\n- Toda la app usa ahora reproduccion nativa."
+  "changelog": "- Corrige el cierre de la app al abrir TV en vivo.\n- Logos de canales con cargador propio liviano.\n- Pantalla de diagnostico si TV en vivo no logra iniciar."
 }
