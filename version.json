@@ -1,11 +1,11 @@
 {
-  "version": "1.0.30",
-  "build": 31,
-  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.30/app-universal-release.apk",
+  "version": "1.0.31",
+  "build": 32,
+  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.31/app-release.apk",
   "urls": {
-    "arm64-v8a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.30/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.30/app-armeabi-v7a-release.apk",
-    "universal": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.30/app-universal-release.apk"
+    "arm64-v8a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.31/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.31/app-armeabi-v7a-release.apk",
+    "universal": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.31/app-release.apk"
   },
-  "changelog": "- TV en vivo: iconos minimalistas para volver y abrir el selector.\n- TV en vivo: boton para cerrar el selector de categorias/canales.\n- TV en vivo: al volver, continua en el ultimo canal visto.\n- Peliculas/series: boton de volver con icono de flecha junto a los controles."
+  "changelog": "- Fix navegación D-pad en sección Lo más popular (bajada al carrusel)\n- Fix botones Ver Todo: ahora bajan al carrusel de la sección correcta\n- Rediseño página detalle TMDB: pantalla única sin scroll, fondo completo\n- Login: navegación libre UP/DOWN entre campos con D-pad"
 }
