@@ -1,11 +1,11 @@
 {
-  "version": "1.0.32",
-  "build": 33,
-  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.32/app-release.apk",
+  "version": "1.0.33",
+  "build": 34,
+  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.33/app-release.apk",
   "urls": {
-    "arm64-v8a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.32/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.32/app-armeabi-v7a-release.apk",
-    "universal": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.32/app-release.apk"
+    "arm64-v8a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.33/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.33/app-armeabi-v7a-release.apk",
+    "universal": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.33/app-release.apk"
   },
-  "changelog": "- Mejoras de navegación y UX\n- Correcciones visuales"
+  "changelog": "- Selector de TV en vivo rediseñado al estilo OneStream: panel de categorías con indicador lateral y lista de canales con número + nombre + logo\n- Color de acento actualizado a púrpura oscuro #371F76 en toda la app\n- Fondo de pantallas Inicio, Películas y Series unificado a negro carbono\n- Borde de elementos 'Vistos recientemente' cambiado de púrpura a blanco\n- Navegación D-pad mejorada: tecla derecha desde categoría salta al primer elemento del panel derecho"
 }
