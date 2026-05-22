@@ -1,11 +1,11 @@
 {
-  "version": "1.0.35",
-  "build": 36,
-  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.35/app-release.apk",
+  "version": "1.0.36",
+  "build": 37,
+  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.36/app-release.apk",
   "urls": {
-    "arm64-v8a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.35/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.35/app-armeabi-v7a-release.apk",
-    "universal": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.35/app-release.apk"
+    "arm64-v8a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.36/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.36/app-armeabi-v7a-release.apk",
+    "universal": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.36/app-release.apk"
   },
-  "changelog": "- Navegación D-pad definitiva en Películas y Series\n- Selector de TV en vivo abre en el canal actual\n- Configuración: acceso directo a cada submenú\n- Logo de la app actualizado"
+  "changelog": "- Navegación D-pad refinada en Películas y Series\n- Iconos en categorías de Películas y Series\n- Focus de tabs del inicio unificado\n- Soporte en una sola pantalla\n- Fin del rastro azul al cambiar de categoría"
 }
