@@ -1,11 +1,11 @@
 {
-  "version": "1.0.38",
-  "build": 39,
-  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.38/app-release.apk",
+  "version": "1.0.39",
+  "build": 40,
+  "url": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.39/app-release.apk",
   "urls": {
-    "arm64-v8a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.38/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.38/app-armeabi-v7a-release.apk",
-    "universal": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.38/app-release.apk"
+    "arm64-v8a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.39/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.39/app-armeabi-v7a-release.apk",
+    "universal": "https://github.com/mathyascm/playgodigital-updates/releases/download/v1.0.39/app-release.apk"
   },
-  "changelog": "- Fin del rastro azul en el selector de capítulos de series"
+  "changelog": "- Mensaje amigable al fallar el inicio de sesión\n- Foco restaurado al volver del detalle en grids\n- \"Ver todo\" de Continuar viendo abre los últimos 10\n- Título del contenido visible en el reproductor\n- Botón siguiente avanza al siguiente capítulo de la serie"
 }
